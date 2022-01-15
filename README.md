@@ -34,7 +34,7 @@ Structured Star Wars data collection to use as source information for data analy
 <tr>
 <td><a href=https://imsdb.com/scripts/Star-Wars-A-New-Hope.html>HTML Script Star Wars IV</a></td>
 <td>Star Wars Episode Episode IV</td>
-<td>Star-Wars-A-New-Hope</td>
+<td>A New Hope</td>
 </tr>
 <tr>
 <td><a href=https://imsdb.com/scripts/Star-Wars-The-Empire-Strikes-Back.html>HTML Script Star Wars V</a></td>
