@@ -52,12 +52,12 @@ Structured Star Wars data collection to use as source information for data analy
 <td>The Force Awakens</td>
 </tr>
 <tr>
-<td><a href=#>HTML Script Star Wars VIII</a></td>
+<td><a href=https://www.scripts.com/script-pdf/18787>HTML Script Star Wars VIII (PDF)</a></td>
 <td>Star Wars Episode Episode VIII</td>
 <td>The Last Jedi</td>
 </tr>
 <tr>
-<td><a href=#>HTML Script Star Wars IX</a></td>
+<td><a href=https://www.scripts.com/script-pdf/24738>HTML Script Star Wars IX (PDF)</a></td>
 <td>Star Wars Episode Episode IX</td>
 <td>The Rise Of Skywalker</td>
 </tr>
